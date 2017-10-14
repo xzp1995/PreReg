@@ -1,0 +1,215 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 12,
+                "name" : "swapDouble(double &, double &)",
+                "parent_name" : "",
+                "usr" : "c:@F@swapDouble#&d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 17,
+                "name" : "swapDoubleV(std::vector<double> *&, std::vector<double> *&)",
+                "parent_name" : "",
+                "usr" : "c:@F@swapDoubleV#&*$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 24,
+                "name" : "fixUpMin(std::vector<double> &, std::vector<double> &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fixUpMin#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 33,
+                "name" : "fixUpMax(std::vector<double> &, std::vector<double> &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fixUpMax#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 42,
+                "name" : "fixDownMin(std::vector<double> &, std::vector<double> &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fixDownMin#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 66,
+                "name" : "fixDownMax(std::vector<double> &, std::vector<double> &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fixDownMax#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 89,
+                "name" : "addMin(std::vector<double> &, std::vector<double> &, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@addMin#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#d#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 95,
+                "name" : "addMax(std::vector<double> &, std::vector<double> &, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@addMax#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#d#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 101,
+                "name" : "popMin(std::vector<double> &, std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@popMin#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 109,
+                "name" : "popMax(std::vector<double> &, std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@popMax#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 117,
+                "name" : "addToLevelSet(std::vector<double> &, std::vector<double> &, std::vector<double> &, std::vector<double> &, double &, double &, double &, double &, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@addToLevelSet#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#S0_#S0_#&d#S3_#S3_#S3_#d#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 149,
+                "name" : "merge(std::vector<double> *&, std::vector<double> *&, std::vector<double> *&, std::vector<double> *&, double &, double &, double &, double &, std::vector<double> *&, std::vector<double> *&, std::vector<double> *&, std::vector<double> *&, double &, double &, double &, double &)",
+                "parent_name" : "",
+                "usr" : "c:@F@merge#&*$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#S0_#S0_#&d#S4_#S4_#S4_#S0_#S0_#S0_#S0_#S4_#S4_#S4_#S4_#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 180,
+                "name" : "pre_1d_l1(std::vector<double> &, std::vector<double> &, std::vector<double> &, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@pre_1d_l1#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#S0_#b#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 289,
+                "name" : "uni_1d_l1(std::vector<double> &, std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@uni_1d_l1#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#"
+            },
+            {
+                "column" : 7,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 2,
+                "line" : 342,
+                "name" : "region",
+                "parent_name" : "",
+                "usr" : "c:@C@region"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 349,
+                "name" : "pre_1d_l2(std::vector<double> &, std::vector<double> &, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@pre_1d_l2#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#b#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 413,
+                "name" : "uni_1d_l2(std::vector<double> &, std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@uni_1d_l2#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 587,
+                "name" : "pre_1d_linf(std::vector<double> &, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@pre_1d_linf#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#b#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 649,
+                "name" : "uni_1d_linf(std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@uni_1d_linf#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#"
+            },
+            {
+                "column" : 15,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 788,
+                "name" : "pre_2d_l1_inc(NumericMatrix &, NumericMatrix &)",
+                "parent_name" : "",
+                "usr" : "c:@F@pre_2d_l1_inc#&$@N@Rcpp@C@Matrix>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#S0_#"
+            },
+            {
+                "column" : 15,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 990,
+                "name" : "pre_2d_l2_inc(NumericMatrix &, NumericMatrix &)",
+                "parent_name" : "",
+                "usr" : "c:@F@pre_2d_l2_inc#&$@N@Rcpp@C@Matrix>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#S0_#"
+            },
+            {
+                "column" : 21,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 1205,
+                "name" : "iso_1d(std::vector<double> &, std::vector<double> &, int, bool, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@iso_1d#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#I#b#b#"
+            },
+            {
+                "column" : 15,
+                "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+                "kind" : 6,
+                "line" : 1265,
+                "name" : "iso_2d_increasing(NumericMatrix &, NumericMatrix &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@iso_2d_increasing#&$@N@Rcpp@C@Matrix>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#S0_#I#"
+            }
+        ],
+        "file" : "C:/Users/Chenkai Sun/Desktop/IsoReg/IsoReg/src/isofinal.cpp",
+        "file_last_write" : 1504585590
+    }
+]

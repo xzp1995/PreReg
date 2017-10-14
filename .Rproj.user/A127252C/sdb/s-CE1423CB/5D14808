@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(IsoReg)\n\nlength=100\ntop = 50+9\nmax = 100\nx_v = c(10: (length+9))\ny_asc = c(10: (top + 9)) * max / (top + 9)\ny_dec = c((length + 9): (top + 10)) * max / (length + 9)\ny_v = c(y_asc, y_dec) + rnorm(length, mean = 0, sd = 10)\n\nfor(i in 1:length){\n  if(y_v[i]<0){\n    y_v[i]=y_v[i]*-1\n  }\n}\npar(mfrow=c(1,2)) # all plots on one page\nplot(y_v)\na=IsoReg::Unilnf(y_v)\nplot(a)\nlines(a)",
+    "created" : 1498664719321.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "629588854",
+    "id" : "5D14808",
+    "lastKnownWriteTime" : 32369935857418356,
+    "last_content_update" : 1498665479395,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

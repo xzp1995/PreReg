@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(Rcpp)\ncompileAttributes()",
+    "created" : 1498661472360.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "4229272272",
+    "id" : "F018B5EB",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1498663887142,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

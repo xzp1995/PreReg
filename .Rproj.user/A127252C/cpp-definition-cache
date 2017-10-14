@@ -1,0 +1,47 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 21,
+                "file" : "A:/Documents/Rproject/IsoReg/src/PreLineaInf.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "PrefixLinearLinf(std::vector<double> &, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@PrefixLinearLinf#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#b#"
+            }
+        ],
+        "file" : "A:/Documents/Rproject/IsoReg/src/PreLineaInf.cpp",
+        "file_last_write" : 1498663676
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 21,
+                "file" : "A:/Documents/Rproject/IsoReg/src/PreUniReg.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "PreUniReg(std::vector<double>, std::vector<double>, std::vector<double>)",
+                "parent_name" : "",
+                "usr" : "c:@F@PreUniReg#$@N@std@C@vector>#d#$@N@std@C@allocator>#d#S0_#S0_#"
+            }
+        ],
+        "file" : "A:/Documents/Rproject/IsoReg/src/PreUniReg.cpp",
+        "file_last_write" : 1498661743
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 21,
+                "file" : "A:/Documents/Rproject/IsoReg/src/UniInf.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "Unilnf(std::vector<double> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@Unilnf#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#"
+            }
+        ],
+        "file" : "A:/Documents/Rproject/IsoReg/src/UniInf.cpp",
+        "file_last_write" : 1498664569
+    }
+]

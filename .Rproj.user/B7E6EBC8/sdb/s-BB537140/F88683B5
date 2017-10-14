@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(IsoReg)\n\n\n\nif(TRUE){\n\n\n  y_asc = c(10: (100 + 9))\n\n  length.of.sizes=100\n  y_time=numeric(length.of.sizes)\n\n  for(i in 1:1){\n    length = 100*i\n    top = length/2\n    max = 100\n    w=c(10: (length + 9))\n    y_asc = c(10: (top + 9)) * max / (top + 9)\n    y_dec = c((length + 9): (top + 10)) * max / (length + 9)\n    y = c(y_asc, y_dec) + rnorm(length, mean = 0, sd = 10)\n    par(mfrow=c(1,2)) # all plots on one page\n    plot(y)\n    vector3=matrix(c(1,2,115,1,137,999.0,1,299,2123.4234,299,12.21,14.13,3,4.5,7,8.9), nrow = 4, ncol = 4)\n    vector5=matrix(c(1,1,1,1,1,1,1,1,1\n                     ,1,1,1,1,1,1,1), nrow = 4, ncol = 4)\n\n    vector1 <- c(5,9,3,13,14,15)\n    vector2 <- c(10,11,12,13,14,15)\n    result <- array(c(vector1,vector2), dim = c(2,6))\n    print(vector3)\n\n    out=IsoReg::iso_1d(y_vec = y ,w_vec = w , metric = 3,TRUE, FALSE)\n    plot(out)\n    print(out)\n  }\n}\n",
+    "created" : 1504567904867.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1020566684",
+    "id" : "F88683B5",
+    "lastKnownWriteTime" : 1504585750,
+    "last_content_update" : 1504585750592,
+    "path" : "C:/Users/Chenkai Sun/Desktop/IsoReg/11.r",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
